@@ -12,7 +12,6 @@ Original file is located at
 import numpy as np
 import pandas as pd
 from pathlib import Path
-import matplotlib.pyplot as plt
 import seaborn as sns
 from skimage.io import imread
 import cv2
